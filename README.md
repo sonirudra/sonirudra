@@ -18,8 +18,6 @@ Follow my journey on GitHub as I explore the realms of React Native and dive int
 Join me in discussions on technology, travel, and the art of writing.
 Let's collaborate on projects, share insights, and build something amazing together.
 
-"Every line of code tells a story, every journey begins with a step, and every word I write is a piece of my soul."
-
 
 <!---
 sonirudra/sonirudra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
