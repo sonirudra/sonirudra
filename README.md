@@ -1,5 +1,5 @@
 Hello, World! 👋 I'm RUDRA SONI from the colorful state of Gujarat, India 🇮🇳
-At 23, I've embarked on a fascinating journey in the tech world. With a vibrant spirit of a self-learner, I dove into the depths of mobile app development and emerged with 2 years of hands-on experience in React Native. My learning path was unconventional; I secured a full-time job through relentless self-education and a passion for technology. 🚀
+At 23, I've embarked on a fascinating journey in the tech world. With a vibrant spirit of a self-learner, I dove into the depths of mobile app development and emerged with 2.5 years of hands-on experience in React Native. My learning path was unconventional; I secured a full-time job through relentless self-education and a passion for technology. 🚀
 
 🌱 Growing Professionally
 By day, I'm a dedicated mobile app developer, navigating the complexities of React Native. But the winds of change are blowing, and I'm steering my ship towards the exciting realm of iOS development with Swift and SwiftUI. My vision? To transition my primary tech stack from React Native to iOS, embracing the challenges and opportunities this journey brings.
